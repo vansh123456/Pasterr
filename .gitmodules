@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:vansh123456/pasterr_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vansh123456/pasterr-BE
